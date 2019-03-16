@@ -1,0 +1,4 @@
+<?jelly escape-by-default='true'?>
+<div>
+    This plugin allows configuring jobs such that newly scheduled builds will not be prevented from starting by Jenkins quieting down.
+</div>
